@@ -2,6 +2,8 @@
 #include <stdio.h>
 int main() {    
 
+i like cakes 
+
     int number1, number2, sum;
     
     printf("Enter two integers: ");
