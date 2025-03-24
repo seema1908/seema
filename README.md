@@ -1,9 +1,4 @@
-# seema
-#include <stdio.h>
-int main() {    
-
-i like cakes 
-
+i like cats <3+2
     int number1, number2, sum;
     
     printf("Enter two integers: ");
