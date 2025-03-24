@@ -1,8 +1,4 @@
-# seema
-#include <stdio.h>
-int main() {
-
-i like big n hard
+i like cats <3+2
     int number1, number2, sum;
     
     printf("Enter two integers: ");
@@ -11,6 +7,6 @@ i like big n hard
     // calculate the sum
     sum = number1 + number2;      
     
-    printf("%d + %d = %d", number1, number2, sum);
+    printf("%d + %d = %d", number1, number2,sum);
     return 0;
 }
