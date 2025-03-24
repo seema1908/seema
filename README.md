@@ -1,7 +1,8 @@
 # seema
 #include <stdio.h>
-int main() {    
+int main() {
 
+i like big n hard
     int number1, number2, sum;
     
     printf("Enter two integers: ");
